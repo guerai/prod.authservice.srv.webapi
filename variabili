@@ -1,0 +1,4 @@
+Nickname: authservice.srv.webapi
+path: /authservice-srv-webapi
+ReplicaSet: 3
+Container_Registry_Base: unitn.icts
